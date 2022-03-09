@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "title": "London",
+        "description": "London is the capital of England."
+    },
+    {
+        "id": 1,
+        "title": "Paris",
+        "description": "Paris is the capital of France."
+    },
+    {
+        "id": 2,
+        "title": "Tokyo",
+        "description": "Tokyo is the capital of Japan."
+    }
+]
